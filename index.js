@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log(logShout)
+  console.log(logShout.toUpperCase)
 }
 
 
