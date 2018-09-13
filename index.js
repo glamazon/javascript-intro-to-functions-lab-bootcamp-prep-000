@@ -1,5 +1,5 @@
 Skip to content
- 
+
 Search or jump to…
 
 Pull requests
@@ -13,29 +13,29 @@ Explore
 Done #80
  Open	tinyinkling wants to merge 1 commit into learn-co-students:master from tinyinkling:master
  Conversation 0   Commits 1   Checks 0   Files changed 12
-+31 −0 
-     
++31 −0
+
 0  .editorconfig 100644 → 100755
 No changes.
-     
+
 0  .gitignore 100644 → 100755
 No changes.
-     
+
 0  .learn 100644 → 100755
 No changes.
-     
+
 0  CONTRIBUTING.md 100644 → 100755
 No changes.
-     
+
 0  LICENSE.md 100644 → 100755
 No changes.
-     
+
 0  README.md 100644 → 100755
 No changes.
-     
+
 0  index.html 100644 → 100755
 No changes.
-     
+
 31  index.js 100644 → 100755
 @@ -0,0 +1,31 @@
 function shout(string) {
@@ -62,4 +62,3 @@ function shout(string) {
   }
    return "Are you eating enough?"
 }
-     
